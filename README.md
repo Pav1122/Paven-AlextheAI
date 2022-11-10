@@ -1,4 +1,4 @@
-# Heisenberg
+# AlexAI
 Voice Assistant in python 
 
 #### Packages needs to install
